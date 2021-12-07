@@ -20,7 +20,7 @@ import tech.jhipster.config.JHipsterConstants;
 
 @SpringBootApplication
 @EnableConfigurationProperties({ LiquibaseProperties.class, ApplicationProperties.class })
-public class NtestApp {
+public class    NtestApp {
 
     private static final Logger log = LoggerFactory.getLogger(NtestApp.class);
 
